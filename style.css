@@ -1,0 +1,112 @@
+body{
+    background-color: bisque; 
+}
+h1{
+    margin: 10px;
+    text-indent: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-size: 60px;
+}
+
+p{
+    font-family: 'impact';
+
+}
+
+#underline{
+    border: solid;
+}
+p{
+    margin: 2px;
+}
+
+#Tabs{
+    text-align: center;
+    
+    
+}
+#Box1{
+    background-color: rgb(1, 151, 101);
+    padding: 1px;
+    border: solid black 2px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    
+    
+}
+
+button{
+    background-color: rgb(73, 232, 253);
+    padding: 5px;
+    Margin: 10px;
+    border: solid black 2px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    border-radius: 10px;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
+
+img{
+    height: 200px;
+    border-radius: 10px; 
+}
+
+#pic2{
+    margin-left: 110px;
+    border: solid black 2px;
+    border-radius: 100px;
+
+}
+
+#picture{
+    background-color: rgb(1, 151, 101);
+    padding: 10px;
+    margin: 5px;
+    border: solid 2px;
+    border-radius: 10px;
+}
+
+/* About Page */
+#aboutme{
+    text-align: center;
+    font-size: 22px;
+}
+#underline2{
+    border: solid 1px;
+    width: 300px;
+    margin: auto;
+
+}
+
+h2{
+    text-align: center;
+    font-family: impact;
+    font-style: italic;
+    margin: 10px;
+}
+#Box2{
+    background-color: rgb(1, 151, 101);
+    border: solid 2px black;
+    border-radius: 10px;
+    
+    
+
+}
+
+#me{
+    text-indent: 30px;
+    padding: 10px;
+}
+footer{
+    color: white;
+    text-shadow: 1px 1px 4px black;
+    text-align: center; 
+}
+
+
+    
+
+
+    
