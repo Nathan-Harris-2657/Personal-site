@@ -104,7 +104,24 @@ footer{
     text-shadow: 1px 1px 4px black;
     text-align: center; 
 }
+/* Page 3 portfolio */
+#Box3{
+    margin: 13px;
+}
 
+#Projects{
+    background-color: rgb(1, 151, 101);  
+    border: solid 2px black; 
+    margin: auto;
+    width: 200px;
+}
+
+h4{
+    text-align: center;
+    color: white;
+    text-shadow: 1px 2px 3px black;
+
+}
 
     
 
